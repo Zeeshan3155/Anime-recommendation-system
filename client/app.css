@@ -1,0 +1,124 @@
+@import url("https://fonts.googleapis.com/css?family=Inconsolata:400,400i,700");
+
+@keyframes example{
+    0%{
+      background-image: url('https://drive.google.com/uc?export=view&id=10b1ZBAlxCIbWLvSWq3VGzE-nSVeq8eGP');
+    }
+    25%{
+      background-image: url('https://drive.google.com/uc?export=view&id=1WsopmyTK6YT3a6IyNzJBrEXOQsuC3bnT');
+    }
+    50%{
+      background-image: url('https://drive.google.com/uc?export=view&id=1GVB8Zmso6cGX9IgfGH6BrHgmCufP7P5c');
+    }
+    75%{
+      background-image: url('https://drive.google.com/uc?export=view&id=1DyujbWSU4Y3BP-Ga0JKpcwcQ-kE11f-s');
+    }
+    100%{
+      background-image: url('https://drive.google.com/uc?export=view&id=1upV1mEV7WDearhHSru_iN7mXzk1GQ7Ye');
+    }
+}
+
+.body{
+    text-align: center;
+    background-size:100% 100%;
+    height: 100vh;
+    width: auto;
+    animation-name: example;
+    animation-duration: 30s;
+    animation-iteration-count: infinite;
+}
+
+
+.form{
+    max-width: 270px;
+    margin: auto;
+}
+
+.img{
+    background: url('https://drive.google.com/uc?export=view&id=1jo544SMBuH3cQZjB97acRUlltGQFbo8f');
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    background-size: contain;
+    float: right;
+    margin-top: -40px;
+    margin-right: 70px;
+    }
+
+
+.custom-btn {
+    background: rgb(187, 0, 0);
+    background: linear-gradient(0deg, rgb(184, 6, 30) 0%, rgba(10, 0, 19, 0.726) 100%);
+    border: none;
+    font-family: "Inconsolata";
+    color: white;
+    cursor: pointer;
+    padding: 12px 120px;
+    margin-top: 20px;
+    border-radius: 12px;
+        }
+.custom-btn:before {
+    height: 0%;
+    width: 2px;
+    }
+.custom-btn:hover {
+    background-image: url('https://drive.google.com/uc?export=view&id=1LvlzJ1hviH4ck7deXKzbru_vQ3u7yu7m');
+    background-size: cover;
+    box-shadow:  4px 4px 6px 0 rgba(243, 0, 0, 0.5),
+                -4px -4px 6px 0 rgba(3, 3, 3, 0.5), 
+        inset -4px -4px 6px 0 rgba(255,255,255,.2),
+        inset 4px 4px 6px 0 rgba(0, 0, 0, .4);
+      }
+      
+.box{
+    padding: 4px 63px;
+    border-radius: 12px;
+    box-shadow:  2px 2px 3px 0 rgba(243, 0, 0, 0.5),
+                -2px -2px 3px 0 rgba(3, 3, 3, 0.5);
+}
+
+.text{
+    font-family: "Inconsolata";
+    color:rgb(255, 255, 255);
+}
+
+table{
+    background-color: #adbccc;
+    width: 278px;
+    border-collapse: collapse;
+    font-size: 0.9em;
+    box-shadow: 0 0 20px rgb(221 202 202 / 15%);
+}
+
+#uirecommend{
+    overflow: auto;
+    height: 300px;
+    width: 295px;
+    overflow-x: hidden;
+    margin-top: 20px;
+}
+#uirecommend thead tr {
+    background: rgb(171 89 89);
+    background: linear-gradient(0deg, rgb(202 69 87) 0%, rgb(45 4 82 / 73%) 100%);
+    color: #030000;
+    text-align-last: center;
+}
+
+#uirecommend th,
+#uirecommend td {
+    padding: 18px 2px;
+}
+
+#uirecommend tbody tr {
+    border-bottom: thin solid #b7a5a5;
+    border-right: #adbccc;
+}
+
+#uirecommend tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+    border-right: #f3f3f3;
+}
+
+#uirecommend tbody tr:last-of-type {
+    border-bottom: 2px solid #009879;
+}
