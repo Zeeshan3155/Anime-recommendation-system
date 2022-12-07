@@ -15,7 +15,7 @@ https://drive.google.com/file/d/17YrnLLnLwoOemdQ3LyDaaRCKmtnEq_z3/view?usp=share
 ## 📝Instruction to use
 1) Download the dataset from the link provided and put it inside model folder.
 2) Run the 'anime recommendation.ipynb'.
-3) 2  file will be created as 'index.json' and 'sig.npy' cut and paste it under directory './server/artifacts'.
+3) 2  files will be created as 'index.json' and 'sig.npy' cut and paste it under directory './server/artifacts'.
 4) Now run the 'server.py'.
 5) Then open './client/app.html'.
 6) Recommendation system is ready to use.
