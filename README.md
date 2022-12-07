@@ -11,7 +11,7 @@ Download dataset from:
 https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database/download?datasetVersionNumber=1
 ## Demo
 
-https://drive.google.com/file/d/1qW3z2tUwP5Dur2nu-YMDlhoA_DzX6Qhn/view?usp=share_link
+https://drive.google.com/file/d/17YrnLLnLwoOemdQ3LyDaaRCKmtnEq_z3/view?usp=share_link
 ## 📝Instruction to use
 1) Download the dataset from the link provided and put it inside model folder.
 2) Run the 'anime recommendation.ipynb'.
