@@ -3,7 +3,7 @@
 Designed and developed an anime recommendation website where users can get anime recommendations based on user's favorite anime, this system is based on Content-based filtering. The first step involves data cleaning and data analysis and creating a matrix using TF-IDF and the sigmoid function and using this matrix with a recommendation function to get the recommendations. The second step is to create a flask server to serve HTTP requests and the Third step is to build a website where users can enter data and get recommendations.
 ## 📸Screenshots
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1mKppfM50fIYARDbfCVPlPIaG0uHLj5qr)
+![App Screenshot](https://raw.drive.google.com/uc?export=view&id=1mKppfM50fIYARDbfCVPlPIaG0uHLj5qr)
 
 
 ## ⏳Dataset
