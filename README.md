@@ -1,30 +1,42 @@
+
 # Anime Recommendation System
 
-Designed and developed an anime recommendation website where users can get anime recommendations based on user's favorite anime, this system is based on Content-based filtering. The first step involves data cleaning and data analysis and creating a matrix using TF-IDF and the sigmoid function and using this matrix with a recommendation function to get the recommendations. The second step is to create a flask server to serve HTTP requests and the Third step is to build a website where users can enter data and get recommendations.
+Designed and developed an anime recommendation website where users can get anime recommendations based on user's favorite anime, this system is based on Content-based filtering.
+
 ## 📸Screenshots
+WEBSITE UI
+![App Screenshot](https://drive.google.com/uc?export=view&id=1VOHFpg5APCeK8WwUuPKTv4tGu2RgVhhU)
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1mKppfM50fIYARDbfCVPlPIaG0uHLj5qr)
+ENTERING ANIME NAME AND NUMBER OF RECOMMENDATIONS
+![App Screenshot](https://drive.google.com/uc?export=view&id=1yoy8lgEc3o6DjuYwlZ7YUqxA-oikrPvC)
 
-
-## ⏳Dataset
-Download dataset from:
-https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database/download?datasetVersionNumber=1
+GETTING RECOMMENDATIONS✔️
+![App Screenshot](https://drive.google.com/uc?export=view&id=12DZ6l1fAY_jaJbnScyLDZ4P6KFwDcnuC)
 ## Demo
 
 https://drive.google.com/file/d/17YrnLLnLwoOemdQ3LyDaaRCKmtnEq_z3/view?usp=share_link
 ## 📝Instruction to use
-1) Download the dataset from the link provided and put it inside model folder.
-2) Run the 'anime recommendation.ipynb'.
-3) 2  files will be created as 'index.json' and 'sig.npy' cut and paste it under directory './server/artifacts'.
-4) Now run the 'server.py'.
-5) Then open './client/app.html'.
-6) Recommendation system is ready to use.
-## Tools and Libraries used
-Numpy, Pandas, Matplotloib, Seaborn, scikit learn, Flask, Json, WordCloud
-## 🛠 Skills Used
-Machine Learning, Python, FLASK, HTML, CSS, JAVASCRIPT
-
-
+1) Run 'model/anime-recommendation.ipynb'
+1) Run 'server/server.py'
+2) Open 'client/app.html'
+3) Website is ready to use 
+## 👣Steps involved
+1) Importing datasets.
+2) Data wrangling and data cleaning using pandas and NumPy.
+3) Data visualization using matplotlib and seaborn.
+4) Building TF-IDF matrix using sklearn tfidf_vectorizer.
+5) Building sigmoidal matrix using sklearn.
+6) Building a Flask server to serve HTTP requests.
+7) Building a website using HTML, CSS, and javascript where users can upload images and get image information.
+## 🛠Technologies used
+1) Python
+2) Numpy and Pandas for data cleaning and data wrangling
+3) Matplotlib and Seaborn for data visualzation
+4) scikit-learn for model building
+5) JSON to create artifacts
+6) Jupyter Notebook and VScode as IDE
+7) Python Flask for HTTP server
+8) HTML, CSS, and javascript for UI
 # Hi, I'm Zeeshan! 👋
 
 
