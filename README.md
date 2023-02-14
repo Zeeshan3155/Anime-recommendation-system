@@ -1,7 +1,7 @@
 
 # Anime Recommendation System
 
-Designed and developed an anime recommendation website where users can get anime recommendations based on user's favorite anime, this system is based on Content-based filtering.
+The content-based anime recommendation system is a machine learning-based approach that analyzes the content of anime, including genre, to provide personalized recommendations to users. This recommendation system has been integrated with Python Flask, which is a microweb framework that allows developers to create web applications. As a result, a website has been created that uses the recommendation system to provide anime recommendations to users based on their preferences. Users can access the website, input their preferences, and receive a list of recommended anime. The integration with Flask allows the website to be easily updated and maintained, while the machine learning-based recommendation system ensures that users receive accurate and relevant recommendations. Overall, the content-based anime recommendation system integrated with Python Flask provides a user-friendly and efficient platform for anime fans to discover new anime that match their interests.
 
 ## 📸Screenshots
 WEBSITE UI
