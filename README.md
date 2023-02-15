@@ -5,13 +5,13 @@ The content-based anime recommendation system is a machine learning-based approa
 
 ## 📸Screenshots
 WEBSITE UI
-![App Screenshot](https://drive.google.com/uc?export=view&id=1VOHFpg5APCeK8WwUuPKTv4tGu2RgVhhU)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1TMCkO6mt3YnCyLkhYMdJbFRyZs0vPT5E)
 
 ENTERING ANIME NAME AND NUMBER OF RECOMMENDATIONS
-![App Screenshot](https://drive.google.com/uc?export=view&id=1yoy8lgEc3o6DjuYwlZ7YUqxA-oikrPvC)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1qgM1f8m4RhqwM7_wca-NqOHIrRsXDYo5)
 
 GETTING RECOMMENDATIONS✔️
-![App Screenshot](https://drive.google.com/uc?export=view&id=12DZ6l1fAY_jaJbnScyLDZ4P6KFwDcnuC)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1d3meBAw4ahW-noEmROFLOts85SL5gKyk)
 ## Demo
 
 https://drive.google.com/file/d/17YrnLLnLwoOemdQ3LyDaaRCKmtnEq_z3/view?usp=share_link
